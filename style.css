@@ -2,7 +2,7 @@ body{
     margin: 0;
     display: grid;
     place-items: center;
-    padding-top: 70px;
+    padding-top: 60px;
     background-color: #f5652d;
 }
 .img{
