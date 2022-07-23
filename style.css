@@ -2,7 +2,7 @@ body{
     margin: 0;
     display: grid;
     place-items: center;
-    height: 100vh;
+    padding-top: 70px;
     background-color: #f5652d;
 }
 .img{
@@ -33,4 +33,27 @@ body{
 }
 .img:hover{
     background-color:#f5652d;
+}
+.text{
+    font-size: 40px;
+    color: #fff;
+    line-height: 5px;
+    text-shadow: 1px 1px #dedede,
+    -2px 2px #dedede,
+    -3px 3px #dedede,
+    -4px 4px #dedede,
+    -5px 5px #dedede,
+    -6px 6px #dedede,
+    -7px 7px #dedede,
+    -8px 8px #dedede,
+    -9px 9px #dedede,
+    -10px 10px #dedede,
+    -12px 12px 25px rgba(0,0,0,0.5);
+
+    
+
+
+}
+.img h6{
+    color: #fff;
 }
